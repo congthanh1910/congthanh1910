@@ -6,4 +6,5 @@
 
 ## Mini Achievements
 
-_Coming soon_
+<img alt="leetcode title" src="https://github.com/congthanh1910/congthanh1910/blob/main/media/leetcode-achievement-1.png?raw=true" width="100%">
+<img alt="leetcode badge" src="https://github.com/congthanh1910/congthanh1910/blob/main/media/leetcode-achievement-2.png?raw=true" width="100%">
